@@ -1,5 +1,7 @@
 # Customer Data Visualization
 
+<img height="400" src="https://github.com/AbdulDevHub/Map-Plotting-Search/blob/main/Screenshot.png?raw=true">
+
 ## Overview
 
 This repository contains the code for a Python program that uses fake phone & billing data for customers to plot them on the map. It also allows you to filter and access their individual data.
